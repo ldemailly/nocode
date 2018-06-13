@@ -48,6 +48,19 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Testing
+
+Does &lt;details&gt; works in .md:
+
+<details>Header of details
+  
+  some multi
+  line
+  details
+  
+  another paragraph
+</details>
+
 ## Contributing
 
 You don't.
